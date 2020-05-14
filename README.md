@@ -4,17 +4,10 @@
 ## FB  : https://www.facebook.com/DIMO5991
 ## github : https://github.com/dimo5991
 ### Don't copy this code without give me the credits, nerd! 
-    ____  ______  _______   ____ __   _________________
-   / __ \/  _/  |/  / __ \ /  _//  | /  /  ____//  ___ \ 
-  / / / // // /|_/ / / / / / / /   |/  /  /___ /  /  / /
- / /_/ // // /  / / /_/ /_/ / /  /|   /  /___//  /__/ /
-/_____/___/_/  /_/\____//___//__/ |__/__/     \______/ 
- 
- 
+
 DimoInfois a Shellscript to perform Information Gathering 
 
 ### Features
-
 - Check Website info
 - Check Phone info
 - IP Tracker
@@ -27,14 +20,9 @@ DimoInfois a Shellscript to perform Information Gathering
 - Port Scan (Multi-threaded)
 - Check CMS
 - Check DNS leaking
-
-
-### Usage:
-```
+### install:
 git clone https://github.com/dimo5991/dimoinfo.git
 cd dimoinfo
 chmod +x dimoinfo.sh
 bash dimoinfo.sh
 ```
-
-
