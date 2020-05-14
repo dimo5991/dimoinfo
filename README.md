@@ -7,6 +7,12 @@
 
 DimoInfois a Shellscript to perform Information Gathering 
 
+### install:
+git clone https://github.com/dimo5991/dimoinfo.git        
+cd dimoinfo               
+chmod +x dimoinfo.sh                              
+bash dimoinfo.sh                           
+
 ### Features
 - Check Website info
 - Check Phone info
@@ -20,14 +26,5 @@ DimoInfois a Shellscript to perform Information Gathering
 - Port Scan (Multi-threaded)
 - Check CMS
 - Check DNS leaking
-### install:
-
-git clone https://github.com/dimo5991/dimoinfo.git
-cd dimoinfo
-chmod +x dimoinfo.sh
-bash dimoinfo.sh
-
-
-
 
 
