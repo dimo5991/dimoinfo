@@ -21,6 +21,7 @@ DimoInfois a Shellscript to perform Information Gathering
 - Check CMS
 - Check DNS leaking
 ### install:
+...
 git clone https://github.com/dimo5991/dimoinfo.git
 cd dimoinfo
 chmod +x dimoinfo.sh
