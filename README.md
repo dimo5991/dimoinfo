@@ -4,11 +4,14 @@
 ## FB  : https://www.facebook.com/DIMO5991
 ## github : https://github.com/dimo5991
 ### Don't copy this code without give me the credits, nerd! 
+
      ____  ______  _______   ____ __   _________________    
     / __ \/  _/  |/  / __ \ /  _//  | /  /  ____//  ___ \      
    / / / // // /|_/ / / / / / / /   |/  /  /___ /  /  / /     
   / /_/ // // /  / / /_/ /_/ / /  /|   /  /___//  /__/ /       
  /_____/___/_/  /_/\____//___//__/ |__/__/     \______/ 
+ 
+ 
 DimoInfois a Shellscript to perform Information Gathering 
 
 ### Features
